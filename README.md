@@ -24,7 +24,7 @@ Maven Private LTD. has provided their Sales data of last 5 Years, they want me t
 
 <p align="center">
 Order Quantity by Subcription: <br/>
-<img src=" " height="80%" width="80%"/>
+<img src="" height="80%" width="80%"/>
 <br />
 <br />
 Select the disk:  <br/>
