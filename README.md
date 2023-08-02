@@ -53,15 +53,18 @@ Maven Private LTD. has provided their Sales data of last 5 Years, they want me t
 <br />
 5. Based on the above mentioned insights it can be concluded that:    
 
-    i) "Pro" subscription is getting Maven Private LTD. more number of orders i.e. 243.2K compared to other subscriptions and as well as 
-    highesh sales i.e.320M was generated through "Pro" subscription only, so More offers, discounts & marketing strategies can be 
-    implemented to double down on the sales revenue.
+    i) "Pro" subscription is getting Maven Private LTD. more number of orders i.e. 243.2K compared to other subscriptions 
+    and as well as highesh sales i.e.320M was generated through "Pro" subscription only, so More offers, discounts
+    & marketing strategies can be implemented to double down on the sales revenue.
     
     ii) "Car" category is generating the highesh sales revenue i.e. 718M .
 
-    iii) Order quantity for the year 2023 & 2024 was almost the same i.e. 227k- 229k but 2023 sales revenue was almost 100% more than the 2024 sales revenue, so whatever strategy was being used in 2023 can be used in upcoming year as well. 
+    iii) Order quantity for the year 2023 & 2024 was almost the same i.e. 227k- 229k but 2023 sales revenue was almost 
+    100% more than the 2024 sales revenue, so whatever strategy was being used in 2023 can be used in upcoming year as well. 
 
-    iv) "Uttar pradesh" is the state with highesh sales revenue amount of 108M, accordingly Maven Private LTD shall take notice of the same and concentrate more on this states customers and what kind of subscriptions are they taking , which category is performing better , which month of the year is showing hike in orders. 
+    iv) "Uttar pradesh" is the state with highesh sales revenue amount of 108M, accordingly Maven Private LTD shall 
+    take notice of the same and concentrate more on this states customers and what kind of subscriptions are
+    they taking , which category is performing better , which month of the year is showing hike in orders. 
 
     v) Forecasting of next 15 days on the basis of previous data provided is done. 
 
