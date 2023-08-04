@@ -25,7 +25,9 @@ Maven Private LTD. has provided their Sales data of last 5 Years, they want me t
 2. In Data Model view Under Data Modelling step Cardinality was established between various fields of different tables, relationship type between these tables was established.
 3. Using DAX (Data Analysis Expression) different calculated columns and measures were created which were further used with different kinds of visuals to create an interactive dashboard consisting of many visuals which would generate interesting and crucial insights from the raw data and make it easy for top manamgement to understand the same, in order to take Data driven crucial business decions.
 
-<h2>Insights Generated:</h2>
+<h2>Insights Generated:</h2>  
+
+Here's the link for Iteractive Project Dashboard --> (https://www.novypro.com/profile_projects/rushikeshmane)
 
 
 
