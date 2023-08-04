@@ -27,7 +27,7 @@ Maven Private LTD. has provided their Sales data of last 5 Years, they want me t
 
 <h2>Insights Generated:</h2>  
 
-Here's the link for Iteractive Project Dashboard --> (https://www.novypro.com/profile_projects/rushikeshmane)
+Here's the link for Interactive Project Dashboard --> (https://www.novypro.com/profile_projects/rushikeshmane)
 
 
 
