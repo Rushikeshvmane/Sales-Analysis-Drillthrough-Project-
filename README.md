@@ -1,5 +1,7 @@
 # Sales Analysis-Drillthrough PowerBI-Project
 
+<h2> Here's the Interactive Project Dashboard link--> https://www.novypro.com/profile_projects/rushikeshmane </h2>
+
 <h2> Description</h2>
 
 Maven Private LTD. has provided their Sales data of last 5 Years, they want me to analyze the data and get insights on following questions
@@ -27,7 +29,6 @@ Maven Private LTD. has provided their Sales data of last 5 Years, they want me t
 
 <h2>Insights Generated:</h2>  
 
-Here's the link for Interactive Project Dashboard --> (https://www.novypro.com/profile_projects/rushikeshmane)
 
 
 
