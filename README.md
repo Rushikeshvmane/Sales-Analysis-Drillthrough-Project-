@@ -65,8 +65,8 @@ Maven Private LTD. has provided their Sales data of last 5 Years, they want me t
     iii) Order quantity for the year 2023 & 2024 was almost the same i.e. 227k- 229k but 2023 sales revenue was almost 
     100% more than the 2024 sales revenue, so whatever strategy was being used in 2023 can be used in upcoming year as well. 
 
-    iv) "Uttar pradesh" is the state with highesh sales revenue amount of 108M, accordingly Maven Private LTD shall 
-    take notice of the same and concentrate more on this states customers and what kind of subscriptions are
+    iv) "Uttar pradesh" is the state with highest sales revenue amount of 108M, accordingly Maven Private LTD shall 
+    take notice of the same and concentrate more on this state's customers and what kind of subscriptions are
     they taking , which category is performing better , which month of the year is showing hike in orders. 
 
     v) Forecasting of next 15 days on the basis of previous data provided is done. 
