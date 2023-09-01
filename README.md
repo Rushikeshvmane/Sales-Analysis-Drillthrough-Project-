@@ -57,7 +57,7 @@ Maven Private LTD. has provided their Sales data of last 5 Years, they want me t
 5. Based on the above mentioned insights it can be concluded that:    
 
     i) "Pro" subscription is getting Maven Private LTD. more number of orders i.e. 243.2K compared to other subscriptions 
-    and as well as highesh sales i.e.320M was generated through "Pro" subscription only, so More offers, discounts
+    and as well as highest sales i.e.320M was generated through "Pro" subscription only, so More offers, discounts
     & marketing strategies can be implemented to double down on the sales revenue.
     
     ii) "Car" category is generating the highesh sales revenue i.e. 718M .
