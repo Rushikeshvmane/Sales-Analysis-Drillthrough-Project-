@@ -1,6 +1,6 @@
 # Sales Analysis-Drillthrough PowerBI-Project
 
-<h2> Here's the Interactive Project Dashboard link--> https://www.novypro.com/profile_projects/rushikeshmane </h2>
+<h2> Here's the Interactive Project Dashboard link--> https://www.novypro.com/project/maven-private-ltd-sales-dashboard </h2>
 
 <h2> Description</h2>
 
